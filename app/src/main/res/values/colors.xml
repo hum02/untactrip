@@ -9,4 +9,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#E5E5E5</color>
     <color name="blue">#0066ff</color>
+    <color name="untact_green">#00A19D</color>
+    <color name="untact_red">#E05D5D</color>
+    <color name="untact_white">#FFF8E5</color>
+    <color name="untact_yellow">#FFB344</color>
+
+
 </resources>

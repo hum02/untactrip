@@ -11,12 +11,12 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="30dp"
+        android:background="@color/untact_yellow"
         android:text="TextView"
         android:fontFamily="@font/vitro_core"
         android:textColor="#474545"
         android:textSize="24sp"
-        android:textStyle="bold"
-        android:background="@color/untact_yellow"/>
+        android:textStyle="bold" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/si_recyclerView"

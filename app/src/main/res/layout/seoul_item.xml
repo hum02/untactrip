@@ -25,7 +25,7 @@
             android:background="@drawable/radius"
             android:bottomLeftRadius="10dp"
             android:bottomRightRadius="10dp"
-            android:fontFamily="@font/nato_medium"
+            android:fontFamily="@font/vitro_pride"
             android:gravity="center"
             android:includeFontPadding="false"
             android:padding="16dp"

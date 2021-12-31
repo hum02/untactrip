@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+
+    android:background="@color/untact_white"
+    >
+
+    <TextView
+        android:id="@+id/txtText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/vitro_core"
+        android:gravity="center"
+        android:text="개발 정보\n\n숭실대학교 소프트웨어학부 18학번 김동흠\n숭실대학교 소프트웨어학부 18학번 김진영\n숭실대학교 소프트웨어학부 18학번 이준규" />
+
+</LinearLayout>
+
